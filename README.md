@@ -95,7 +95,7 @@ I love creating real-world solutions using **AI + Web + Cloud**, especially in
 ## 📫 Connect With Me  
 - 🌐 Portfolio: *(add link after deployment)*  
 - 💼 LinkedIn: https://www.linkedin.com/in/ajay-k-r-b896a5306  
-- 📧 Email: **ajaykumar.kr.isec@gmail.com**  
+- 📧 Email: **ajaykumarkr2005@gmail.com**  
 - 🐙 GitHub: **@AjayKumarKR07**
 
 ---
