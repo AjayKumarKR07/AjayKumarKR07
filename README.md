@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 About Me  
-I'm a **3rd-year Information Science & Engineering (ISE)** student at **HKBK College of Engineering, Bengaluru**, passionate about building impactful **AI, Web & Automation** projects.
+I'm a **4rd-year Information Science & Engineering (ISE)** student at **HKBK College of Engineering, Bengaluru**, passionate about building impactful **AI, Web & Automation** projects.
 
 I love creating real-world solutions using **AI + Web + Cloud**, especially in  
 🌾 **Agriculture**,  
