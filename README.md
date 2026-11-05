@@ -1,25 +1,25 @@
 # Hi 👋, I'm Ajay Kumar K R
 
-### Information Science & Engineering Student | Full-Stack Developer | AI & ML Enthusiast | Innovator
+### Data Science Student | Data Science & Machine Learning Enthusiast | Full-Stack Developer
 
 ---
 
 ## 🚀 About Me
 
-I'm a **4th-year Information Science & Engineering student** at **HKBK College of Engineering, Bengaluru**, passionate about building impactful software solutions using **AI, Full-Stack Development, Machine Learning, and Cloud Technologies**.
+I'm a **4th-year Information Science & Engineering student** at **HKBK College of Engineering, Bengaluru**, focused on **Data Science, Machine Learning, and Artificial Intelligence**.
 
-I enjoy transforming innovative ideas into practical applications that solve real-world problems.
+I'm passionate about working with data, developing predictive models, discovering meaningful insights, and building intelligent applications that solve real-world problems.
+
+I also have full-stack development experience, allowing me to transform data-driven solutions into practical web applications.
 
 My areas of interest include:
 
-- 🌾 Agriculture Technology
-- 🤖 Artificial Intelligence & Machine Learning
-- 🌐 Full-Stack Web Development
-- 🔐 Cybersecurity & Cryptography
-- ⛓️ Blockchain Technology
-- ☁️ Cloud Computing & Automation
-
----
+- 📊 Data Science & Data Analytics
+- 🤖 Machine Learning & Predictive Modeling
+- 🧠 Artificial Intelligence
+- 👁️ Data Visualization & Computer Vision
+- 🌐 Full-Stack Development
+- ☁️ Data-Driven Applications & Cloud Technologies
 
 ## 🔥 What I Do
 
