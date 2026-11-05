@@ -1,108 +1,311 @@
-<h1 align="center">Hi 👋, I'm Ajay Kumar K R</h1>
-<h3 align="center">Information Science & Engineering Student | AI & Full-Stack Developer | Innovator</h3>
+# Hi 👋, I'm Ajay Kumar K R
+
+### Information Science & Engineering Student | Full-Stack Developer | AI & ML Enthusiast | Innovator
 
 ---
 
-## 🚀 About Me  
-I'm a **4rd-year Information Science & Engineering (ISE)** student at **HKBK College of Engineering, Bengaluru**, passionate about building impactful **AI, Web & Automation** projects.
+## 🚀 About Me
 
-I love creating real-world solutions using **AI + Web + Cloud**, especially in  
-🌾 **Agriculture**,  
-🏥 **Healthcare**, and  
-🧠 **AI Systems**.
+I'm a **4th-year Information Science & Engineering student** at **HKBK College of Engineering, Bengaluru**, passionate about building impactful software solutions using **AI, Full-Stack Development, Machine Learning, and Cloud Technologies**.
+
+I enjoy transforming innovative ideas into practical applications that solve real-world problems.
+
+My areas of interest include:
+
+- 🌾 Agriculture Technology
+- 🤖 Artificial Intelligence & Machine Learning
+- 🌐 Full-Stack Web Development
+- 🔐 Cybersecurity & Cryptography
+- ⛓️ Blockchain Technology
+- ☁️ Cloud Computing & Automation
 
 ---
 
-## 🔥 What I Do  
-- 🤖 Build AI-powered applications (Plant disease detection, Resume verification, Fever diagnosis)  
-- 🌐 Create full-stack platforms (E-commerce, dashboards, portals)  
-- 🧪 Experiment with ML models and LLMs (Gemini API, TensorFlow, custom rule-based AI)  
-- 🛠️ Develop modern UI with **React + TypeScript + Vite**  
-- ☁️ Deploy using GitHub Pages, Netlify & Cloud APIs  
+## 🔥 What I Do
+
+- Build AI-powered applications and intelligent systems.
+- Develop full-stack web applications using React, Node.js, and Python.
+- Design REST APIs, authentication systems, and database architectures.
+- Experiment with machine learning models, computer vision, and LLM integrations.
+- Build responsive dashboards and modern user interfaces.
+- Deploy applications using Vercel, Render, Railway, and Netlify.
 
 ---
 
 ## 🏆 Featured Projects
 
-### 🌾 **AI-AgroDoctor – AI Plant Disease Detection**
-🔹 React + TypeScript ML frontend  
-🔹 CNN/ViT model architecture (planned backend)  
-🔹 Upload → Predict → Show disease + treatment  
-🔹 Explainability (Grad-CAM)  
-📌 Repo: https://github.com/AjayKumarKR07/AI-AgroDoctor  
+### 🌾 1. KISSANVIKAS AgroConnect 360
+**AI-Powered Smart Agriculture & Digital Marketplace**
+
+A unified digital platform designed to transform agricultural trade through technology.
+
+- Farmer and buyer dashboards.
+- Digital agricultural marketplace.
+- AI-based crop disease detection.
+- Crop price insights and prediction.
+- Weather-based agricultural advisory.
+- Crop management and order tracking.
+- Responsive design for mobile and desktop.
+
+**Tech Stack:** React, Vite, Tailwind CSS, Node.js, Express.js, MongoDB, Python, Machine Learning.
+
+🔗 Live Demo: https://agroconnect-360.vercel.app/  
+📌 Repository: https://github.com/AjayKumarKR07/agroconnect-360
 
 ---
 
-### 🛒 **AgriPro – Full-Stack Agri E-Commerce**
-🔹 Node.js + Express + MongoDB  
-🔹 Farmer → Buyer direct marketplace  
-🔹 Product management, search, payments  
-📌 Repo: https://github.com/AjayKumarKR07/AgriPro--e-commerce  
+### 📊 2. RankMetric – AI-Powered SEO Intelligence Platform
+
+A full-stack SEO intelligence platform for analyzing websites, tracking rankings, and generating AI-powered optimization recommendations.
+
+- Website SEO analysis.
+- Google Lighthouse integration.
+- Core Web Vitals monitoring.
+- Meta tags, heading, links, and image analysis.
+- Keyword density analysis.
+- AI-powered SEO recommendations.
+- Competitor analysis and rank tracking.
+- PDF report generation and analysis history.
+
+**Tech Stack:** React, TypeScript, Vite, Tailwind CSS, Node.js, MongoDB, Groq AI, Lighthouse.
+
+📌 Repository: Add your RankMetric repository link.
 
 ---
 
-### 🔗 **SkillChain – AI Resume Verification System**
-🔹 React + TypeScript + Vite  
-🔹 Gemini API for resume analysis  
-🔹 Blockchain-based verification model (planned)  
-📌 Repo: https://github.com/AjayKumarKR07/SkillChain-Ai-powered-resume-verification-system  
+### 🤖 3. JARVIS – Personal AI Agent
+
+An autonomous personal AI agent developed for an 8-hour software hackathon.
+
+- 10-stage autonomous execution and verification lifecycle.
+- Tool execution and recovery mechanisms.
+- Idempotency-aware execution.
+- JWT authentication and secure password hashing.
+- MongoDB Atlas with SQLite fallback.
+- Execution verification evidence and storage status.
+
+**Tech Stack:** React 19, Vite, Tailwind CSS, Python, FastAPI, SQLAlchemy, Pydantic, MongoDB, SQLite.
+
+📌 Repository: https://github.com/AjayKumarKR07/CHAOS-Hackathon-2026
 
 ---
 
-### 🩺 **Fever Scan Pro – AI Fever Diagnosis Tool**
-🔹 Rule-based AI disease scoring  
-🔹 Interactive dashboard + charts  
-🔹 Patient reports, offline-ready  
-📌 Repo: https://github.com/AjayKumarKR07/Fever_Scan  
-🔗 Live: https://fever-scan.netlify.app
+### 🔐 4. SecureCipher – Cryptography Platform
+
+A web-based cryptography application implementing secure encryption and decryption.
+
+- AES encryption and decryption.
+- RSA key pair generation.
+- RSA-2048 and RSA-3072 support.
+- RSA-OAEP padding with SHA-256.
+- Public-key encryption and private-key decryption.
+- Backend API integration and automated tests.
+
+**Tech Stack:** React, Vite, Python, FastAPI, PostgreSQL, SQLAlchemy, Python Cryptography.
+
+📌 Repository: Add repository link.
 
 ---
 
-### 🌐 **Personal Portfolio**
-🔹 Responsive portfolio showcasing all my work  
-📌 Repo: https://github.com/AjayKumarKR07/Myportfolio  
-🔗 Live: *(Add your deployed link)*  
+### 🔗 5. SkillChain – AI-Powered Resume Verification System
+
+An AI-powered resume analysis and verification platform combining intelligent resume processing with blockchain-based verification concepts.
+
+- Resume analysis and information extraction.
+- AI-based resume verification.
+- Resume fraud detection concepts.
+- Trust score and red-flag analysis.
+- Blockchain-based verification architecture.
+
+**Tech Stack:** React, TypeScript, Python, FastAPI, Gemini API, XGBoost, Random Forest, Firebase, Cardano.
+
+📌 Repository: https://github.com/AjayKumarKR07/SkillChain-Ai-powered-resume-verification-system
 
 ---
 
-## 🛠️ Tech Stack
+### 🌱 6. AI-AgroDoctor – AI Plant Disease Detection
 
-### 👨‍💻 Languages  
-- JavaScript, TypeScript  
-- Python  
-- HTML, CSS  
+An AI-powered agricultural solution designed to identify plant diseases and provide treatment recommendations.
 
-### 🚀 Frameworks & Tools  
-- React + Vite  
-- Node.js, Express  
-- MongoDB  
-- FastAPI / Flask (Backend ML planned)  
-- Chart.js, html2canvas  
+- Plant image upload and analysis.
+- AI-based disease detection architecture.
+- Disease identification and treatment recommendations.
+- Explainable AI using Grad-CAM concepts.
 
-### 🤖 AI / ML  
-- Gemini API  
-- TensorFlow / PyTorch (in progress)  
-- Rule-based expert systems  
-- Computer Vision (CNN models planned)
+**Tech Stack:** React, TypeScript, Python, Computer Vision, CNN, Vision Transformers.
 
-### ☁️ Deployment  
-- GitHub Pages  
-- Netlify  
-- Render / Railway (future backend)
+📌 Repository: https://github.com/AjayKumarKR07/AI-AgroDoctor
 
 ---
 
-## 📫 Connect With Me  
-- 🌐 Portfolio: *(add link after deployment)*  
-- 💼 LinkedIn: https://www.linkedin.com/in/ajay-k-r-b896a5306  
-- 📧 Email: **ajaykumarkr2005@gmail.com**  
-- 🐙 GitHub: **@AjayKumarKR07**
+### 🛒 7. AgriPro – Agricultural E-Commerce Platform
+
+A full-stack agricultural marketplace connecting farmers and buyers.
+
+- Farmer-to-buyer marketplace.
+- Product management.
+- Product search and discovery.
+- Order management.
+- Payment integration concepts.
+
+**Tech Stack:** React, Node.js, Express.js, MongoDB.
+
+📌 Repository: https://github.com/AjayKumarKR07/AgriPro--e-commerce
 
 ---
 
-## ⚡ Fun Fact  
-I love building **AI-powered tools** that solve **real-life problems** for farmers, students, and healthcare users.
+### 🩺 8. Fever Scan Pro – AI Fever Diagnosis Tool
+
+An interactive health assessment application using rule-based intelligence.
+
+- Rule-based disease scoring.
+- Interactive dashboard and charts.
+- Patient reports.
+- Offline-ready application features.
+
+**Tech Stack:** React, JavaScript, Rule-Based AI, Chart.js.
+
+🔗 Live Demo: https://fever-scan.netlify.app  
+📌 Repository: https://github.com/AjayKumarKR07/Fever_Scan
 
 ---
 
-🔥 *If you like my work, consider starring my repositories!* ⭐
+### 🌿 9. AgriScan – Smart Agriculture Solution
+
+An agriculture-focused project developed as part of the IBM Z Datathon.
+
+- Agriculture technology solution.
+- Digital tools for agricultural problem-solving.
+
+📌 Repository: https://github.com/AjayKumarKR07/Agri-Scan
+
+---
+
+### 🌐 10. Personal Portfolio
+
+A responsive portfolio showcasing my technical skills, projects, and development journey.
+
+**Tech Stack:** HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS.
+
+📌 Repository: https://github.com/AjayKumarKR07/Myportfolio  
+🔗 Live Demo: Add your deployed portfolio link.
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+- JavaScript
+- TypeScript
+- Python
+- Java
+- C
+- HTML5
+- CSS3
+
+### Frontend Development
+- React.js
+- React 19
+- Vite
+- Tailwind CSS
+- Bootstrap
+- Framer Motion
+
+### Backend Development
+- Node.js
+- Express.js
+- Python
+- FastAPI
+- Flask
+- REST API Development
+- JWT Authentication
+
+### Databases
+- MongoDB
+- MongoDB Atlas
+- PostgreSQL
+- SQLite
+- Firebase Firestore
+
+### AI / ML
+- Machine Learning
+- Scikit-learn
+- Random Forest
+- XGBoost
+- TensorFlow
+- Computer Vision
+- CNN
+- Gemini API
+- Groq API
+- LLM Integration
+- Prompt Engineering
+
+### Security & Blockchain
+- AES Encryption
+- RSA Cryptography
+- Secure Authentication
+- Cardano
+- Blockchain Verification Concepts
+
+### Tools & Deployment
+- Git & GitHub
+- Docker
+- Postman
+- Figma
+- VS Code
+- Google Antigravity
+- Vercel
+- Render
+- Railway
+- Netlify
+
+---
+
+## 🏆 Achievements & Hackathons
+
+- 🥇 Top 5 – Cardano Asia IBW Hackathon 2025.
+- 🏅 7th Place – Micro Labs Hackathon 2025 among 200 teams.
+- 🚀 IBM Z Datathon 2025 – Team Terminal Titans.
+- 🔗 Cardano Asia IBW Hackathon 2025 – SkillChain AI Resume Verification System.
+- 💡 CHAOS 8-Hour Software Hackathon – JARVIS Personal AI Agent.
+
+---
+
+## 📜 Certifications & Learning
+
+- Programming in Java – NPTEL.
+- Problem Solving Through C Programming.
+- Data Structures and Algorithms.
+- Introduction to Machine Learning.
+- Google UX Design.
+- Microsoft Certifications.
+- IBM Cognitive Class.
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AjayKumarKR07&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AjayKumarKR07&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=AjayKumarKR07&theme=tokyonight&hide_border=true)
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/ajay-k-r-b896a5306
+- 📧 Email: ajaykumarkr2005@gmail.com
+- 🐙 GitHub: https://github.com/AjayKumarKR07
+- 🌐 Portfolio: Add your deployed portfolio link
+
+---
+
+## ⚡ Fun Fact
+
+I love building technology that makes a real-world difference — from helping farmers through AI-powered agriculture to creating intelligent automation systems and secure applications.
+
+**Always Learning. Always Building. Always Innovating.** 🚀
+
+⭐ If you like my projects, consider giving them a star!
