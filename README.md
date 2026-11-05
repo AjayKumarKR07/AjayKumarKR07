@@ -69,7 +69,7 @@ A full-stack SEO intelligence platform for analyzing websites, tracking rankings
 
 **Tech Stack:** React, TypeScript, Vite, Tailwind CSS, Node.js, MongoDB, Groq AI, Lighthouse.
 
-📌 Repository: Add your RankMetric repository link.
+📌 Repository: https://github.com/AjayKumarKR07/RankMetric
 
 ---
 
