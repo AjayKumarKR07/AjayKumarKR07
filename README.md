@@ -30,8 +30,6 @@ My areas of interest include:
 - Build responsive dashboards and modern user interfaces.
 - Deploy applications using Vercel, Render, Railway, and Netlify.
 
----
-
 ## 🏆 Featured Projects
 
 ### 🌾 1. KISSANVIKAS AgroConnect 360
@@ -52,8 +50,6 @@ A unified digital platform designed to transform agricultural trade through tech
 🔗 Live Demo: https://agroconnect-360.vercel.app/  
 📌 Repository: https://github.com/AjayKumarKR07/agroconnect-360
 
----
-
 ### 📊 2. RankMetric – AI-Powered SEO Intelligence Platform
 
 A full-stack SEO intelligence platform for analyzing websites, tracking rankings, and generating AI-powered optimization recommendations.
@@ -71,8 +67,6 @@ A full-stack SEO intelligence platform for analyzing websites, tracking rankings
 
 📌 Repository: https://github.com/AjayKumarKR07/RankMetric
 
----
-
 ### 🤖 3. JARVIS – Personal AI Agent
 
 An autonomous personal AI agent developed for an 8-hour software hackathon.
@@ -88,8 +82,6 @@ An autonomous personal AI agent developed for an 8-hour software hackathon.
 
 📌 Repository: https://github.com/AjayKumarKR07/CHAOS-Hackathon-2026
 
----
-
 ### 🔐 4. SecureCipher – Cryptography Platform
 
 A web-based cryptography application implementing secure encryption and decryption.
@@ -102,10 +94,8 @@ A web-based cryptography application implementing secure encryption and decrypti
 - Backend API integration and automated tests.
 
 **Tech Stack:** React, Vite, Python, FastAPI, PostgreSQL, SQLAlchemy, Python Cryptography.
-
-📌 Repository: Add repository link.
-
----
+🔗 Live Demo: https://secure-cipher-omega.vercel.app/
+📌 Repository: https://github.com/AjayKumarKR07/SecureCipher
 
 ### 🔗 5. SkillChain – AI-Powered Resume Verification System
 
@@ -121,8 +111,6 @@ An AI-powered resume analysis and verification platform combining intelligent re
 
 📌 Repository: https://github.com/AjayKumarKR07/SkillChain-Ai-powered-resume-verification-system
 
----
-
 ### 🌱 6. AI-AgroDoctor – AI Plant Disease Detection
 
 An AI-powered agricultural solution designed to identify plant diseases and provide treatment recommendations.
@@ -135,24 +123,6 @@ An AI-powered agricultural solution designed to identify plant diseases and prov
 **Tech Stack:** React, TypeScript, Python, Computer Vision, CNN, Vision Transformers.
 
 📌 Repository: https://github.com/AjayKumarKR07/AI-AgroDoctor
-
----
-
-### 🛒 7. AgriPro – Agricultural E-Commerce Platform
-
-A full-stack agricultural marketplace connecting farmers and buyers.
-
-- Farmer-to-buyer marketplace.
-- Product management.
-- Product search and discovery.
-- Order management.
-- Payment integration concepts.
-
-**Tech Stack:** React, Node.js, Express.js, MongoDB.
-
-📌 Repository: https://github.com/AjayKumarKR07/AgriPro--e-commerce
-
----
 
 ### 🩺 8. Fever Scan Pro – AI Fever Diagnosis Tool
 
@@ -168,48 +138,18 @@ An interactive health assessment application using rule-based intelligence.
 🔗 Live Demo: https://fever-scan.netlify.app  
 📌 Repository: https://github.com/AjayKumarKR07/Fever_Scan
 
----
-
-### 🌿 9. AgriScan – Smart Agriculture Solution
-
-An agriculture-focused project developed as part of the IBM Z Datathon.
-
-- Agriculture technology solution.
-- Digital tools for agricultural problem-solving.
-
-📌 Repository: https://github.com/AjayKumarKR07/Agri-Scan
-
----
-
-### 🌐 10. Personal Portfolio
-
-A responsive portfolio showcasing my technical skills, projects, and development journey.
-
-**Tech Stack:** HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS.
-
-📌 Repository: https://github.com/AjayKumarKR07/Myportfolio  
-🔗 Live Demo: Add your deployed portfolio link.
-
----
-
 ## 🛠️ Technical Skills
 
 ### Programming Languages
-- JavaScript
-- TypeScript
 - Python
 - Java
 - C
-- HTML5
-- CSS3
 
 ### Frontend Development
 - React.js
 - React 19
 - Vite
 - Tailwind CSS
-- Bootstrap
-- Framer Motion
 
 ### Backend Development
 - Node.js
@@ -222,19 +162,13 @@ A responsive portfolio showcasing my technical skills, projects, and development
 
 ### Databases
 - MongoDB
-- MongoDB Atlas
 - PostgreSQL
 - SQLite
-- Firebase Firestore
-
+- 
 ### AI / ML
 - Machine Learning
-- Scikit-learn
 - Random Forest
 - XGBoost
-- TensorFlow
-- Computer Vision
-- CNN
 - Gemini API
 - Groq API
 - LLM Integration
@@ -251,15 +185,10 @@ A responsive portfolio showcasing my technical skills, projects, and development
 - Git & GitHub
 - Docker
 - Postman
-- Figma
 - VS Code
 - Google Antigravity
 - Vercel
 - Render
-- Railway
-- Netlify
-
----
 
 ## 🏆 Achievements & Hackathons
 
@@ -268,8 +197,6 @@ A responsive portfolio showcasing my technical skills, projects, and development
 - 🚀 IBM Z Datathon 2025 – Team Terminal Titans.
 - 🔗 Cardano Asia IBW Hackathon 2025 – SkillChain AI Resume Verification System.
 - 💡 CHAOS 8-Hour Software Hackathon – JARVIS Personal AI Agent.
-
----
 
 ## 📜 Certifications & Learning
 
@@ -281,26 +208,12 @@ A responsive portfolio showcasing my technical skills, projects, and development
 - Microsoft Certifications.
 - IBM Cognitive Class.
 
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AjayKumarKR07&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AjayKumarKR07&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=AjayKumarKR07&theme=tokyonight&hide_border=true)
-
----
-
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/ajay-k-r-b896a5306
 - 📧 Email: ajaykumarkr2005@gmail.com
 - 🐙 GitHub: https://github.com/AjayKumarKR07
 - 🌐 Portfolio: Add your deployed portfolio link
-
----
 
 ## ⚡ Fun Fact
 
