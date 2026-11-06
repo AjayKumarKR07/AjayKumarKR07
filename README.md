@@ -177,7 +177,6 @@ An interactive health assessment application using rule-based intelligence.
 - Secure Authentication
 - Cardano
 - Blockchain Verification Concepts
-
 ### Tools & Deployment
 - Git & GitHub
 - Docker
@@ -188,7 +187,6 @@ An interactive health assessment application using rule-based intelligence.
 - Render
 
 ## 🏆 Achievements & Hackathons
-
 - 🥇 Top 5 – Cardano Asia IBW Hackathon 2025.
 - 🏅 7th Place – Micro Labs Hackathon 2025 among 200 teams.
 - 🚀 IBM Z Datathon 2025 – Team Terminal Titans.
@@ -196,7 +194,6 @@ An interactive health assessment application using rule-based intelligence.
 - 💡 CHAOS 8-Hour Software Hackathon – JARVIS Personal AI Agent.
 
 ## 📜 Certifications & Learning
-
 - Programming in Java – NPTEL.
 - Problem Solving Through C Programming.
 - Data Structures and Algorithms.
@@ -206,14 +203,12 @@ An interactive health assessment application using rule-based intelligence.
 - IBM Cognitive Class.
 
 ## 📫 Connect With Me
-
 - 💼 LinkedIn: https://www.linkedin.com/in/ajay-k-r-b896a5306
 - 📧 Email: ajaykumarkr2005@gmail.com
 - 🐙 GitHub: https://github.com/AjayKumarKR07
 - 🌐 Portfolio: Add your deployed portfolio link
 
 ## ⚡ Fun Fact
-
 I love building technology that makes a real-world difference — from helping farmers through AI-powered agriculture to creating intelligent automation systems and secure applications.
 
 **Always Learning. Always Building. Always Innovating.** 🚀
