@@ -187,21 +187,21 @@ An interactive health assessment application using rule-based intelligence.
 - Render
 
 ## 🏆 Achievements & Hackathons
-- 🥇 Top 5 – Cardano Asia IBW Hackathon 2025.
-- 🏅 7th Place – Micro Labs Hackathon 2025 among 200 teams.
-- 🚀 IBM Z Datathon 2025 – Team Terminal Titans.
-- 🔗 Cardano Asia IBW Hackathon 2025 – SkillChain AI Resume Verification System.
-- 💡 CHAOS 8-Hour Software Hackathon – JARVIS Personal AI Agent.
+- 🏆 **Winner – Best Use of MongoDB Award ($15 USD)** – CHAOS 8-Hour Software Hackathon 2026, for the JARVIS Personal AI Agent.
+- 🥇 **Top 5 – Cardano Asia IBW Hackathon 2025** – SkillChain AI-Powered Resume Verification System.
+- 🏅 **7th Place – Micro Labs Hackathon 2025** among 200 participating teams.
+- 🚀 **IBM Z Datathon 2025** – Participated as a member of Team Terminal Titans.
+- 🔗 **Cardano Asia IBW Hackathon 2025** – Developed an AI-powered resume verification solution with blockchain-based verification concepts.
 
 ## 📜 Certifications & Learning
-- Programming in Java – NPTEL.
-- Problem Solving Through C Programming.
-- Data Structures and Algorithms.
-- Introduction to Machine Learning.
-- Google UX Design.
-- Microsoft Certifications.
-- IBM Cognitive Class.
-
+- **Programming in Java** – NPTEL.
+- **Problem Solving Through C Programming.**
+- **Data Structures and Algorithms.**
+- **Introduction to Machine Learning.**
+- **Google UX Design Certificate.**
+- **Microsoft Certifications.**
+- **IBM Cognitive Class Certifications.**
+- 
 ## 📫 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/ajay-k-r-b896a5306
 - 📧 Email: ajaykumarkr2005@gmail.com
