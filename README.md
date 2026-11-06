@@ -144,13 +144,11 @@ An interactive health assessment application using rule-based intelligence.
 - Python
 - Java
 - C
-
 ### Frontend Development
 - React.js
 - React 19
 - Vite
 - Tailwind CSS
-
 ### Backend Development
 - Node.js
 - Express.js
@@ -159,12 +157,10 @@ An interactive health assessment application using rule-based intelligence.
 - Flask
 - REST API Development
 - JWT Authentication
-
 ### Databases
 - MongoDB
 - PostgreSQL
 - SQLite
-- 
 ### AI / ML
 - Machine Learning
 - Random Forest
@@ -173,7 +169,6 @@ An interactive health assessment application using rule-based intelligence.
 - Groq API
 - LLM Integration
 - Prompt Engineering
-
 ### Security & Blockchain
 - AES Encryption
 - RSA Cryptography
