@@ -69,16 +69,18 @@ A full-stack SEO intelligence platform for analyzing websites, tracking rankings
 
 ### 🤖 3. JARVIS – Personal AI Agent
 
-An autonomous personal AI agent developed for an 8-hour software hackathon.
+An autonomous personal AI agent developed for the CHAOS 8-Hour Software Hackathon.
 
 - 10-stage autonomous execution and verification lifecycle.
-- Tool execution and recovery mechanisms.
-- Idempotency-aware execution.
+- Intelligent tool execution and recovery mechanisms.
+- Idempotency-aware execution and reliable task resumption.
 - JWT authentication and secure password hashing.
-- MongoDB Atlas with SQLite fallback.
-- Execution verification evidence and storage status.
+- MongoDB Atlas integration with automatic SQLite fallback.
+- Execution verification evidence and storage status monitoring.
 
-**Tech Stack:** React 19, Vite, Tailwind CSS, Python, FastAPI, SQLAlchemy, Pydantic, MongoDB, SQLite.
+**Tech Stack:** React 19, Vite, Tailwind CSS, Python, FastAPI, SQLAlchemy, Pydantic, MongoDB Atlas, SQLite.
+
+🏆 **Achievement:** Winner – Best Use of MongoDB Award ($15 USD).
 
 📌 Repository: https://github.com/AjayKumarKR07/CHAOS-Hackathon-2026
 
