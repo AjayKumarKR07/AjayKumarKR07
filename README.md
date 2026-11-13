@@ -141,7 +141,6 @@ An interactive health assessment application using rule-based intelligence.
 📌 Repository: https://github.com/AjayKumarKR07/Fever_Scan
 
 ## 🛠️ Technical Skills
-
 ### Programming Languages
 - Python
 - Java
@@ -185,14 +184,12 @@ An interactive health assessment application using rule-based intelligence.
 - Google Antigravity
 - Vercel
 - Render
-
 ## 🏆 Achievements & Hackathons
 - 🏆 **Winner – Best Use of MongoDB Award ($15 USD)** – CHAOS 8-Hour Software Hackathon 2026, for the JARVIS Personal AI Agent.
 - 🥇 **Top 5 – Cardano Asia IBW Hackathon 2025** – SkillChain AI-Powered Resume Verification System.
 - 🏅 **7th Place – Micro Labs Hackathon 2025** among 200 participating teams.
 - 🚀 **IBM Z Datathon 2025** – Participated as a member of Team Terminal Titans.
 - 🔗 **Cardano Asia IBW Hackathon 2025** – Developed an AI-powered resume verification solution with blockchain-based verification concepts.
-
 ## 📜 Certifications & Learning
 - **Programming in Java** – NPTEL.
 - **Problem Solving Through C Programming.**
@@ -201,16 +198,13 @@ An interactive health assessment application using rule-based intelligence.
 - **Google UX Design Certificate.**
 - **Microsoft Certifications.**
 - **IBM Cognitive Class Certifications.**
-- 
 ## 📫 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/ajay-k-r-b896a5306
 - 📧 Email: ajaykumarkr2005@gmail.com
 - 🐙 GitHub: https://github.com/AjayKumarKR07
 - 🌐 Portfolio: Add your deployed portfolio link
-
 ## ⚡ Fun Fact
 I love building technology that makes a real-world difference — from helping farmers through AI-powered agriculture to creating intelligent automation systems and secure applications.
 
 **Always Learning. Always Building. Always Innovating.** 🚀
-
 ⭐ If you like my projects, consider giving them a star!
