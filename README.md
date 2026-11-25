@@ -2,7 +2,6 @@
 
 ### Data Science Student | Data Science & Machine Learning Enthusiast | Full-Stack Developer
 
----
 
 ## 🚀 About Me
 
