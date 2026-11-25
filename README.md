@@ -2,13 +2,11 @@
 
 ### Data Science Student | Data Science & Machine Learning Enthusiast | Full-Stack Developer
 
-
 ## 🚀 About Me
 
 I'm a **4th-year Information Science & Engineering student** at **HKBK College of Engineering, Bengaluru**, focused on **Data Science, Machine Learning, and Artificial Intelligence**.
 
 I'm passionate about working with data, developing predictive models, discovering meaningful insights, and building intelligent applications that solve real-world problems.
-
 I also have full-stack development experience, allowing me to transform data-driven solutions into practical web applications.
 
 My areas of interest include:
